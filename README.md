@@ -42,3 +42,11 @@ Projeto desenvolvido durante a semana OMNI Stack da Rocketseat, com o objetivo d
 <p align="center">
    <img alt="novo caso" src="https://github.com/lcassiol/reactjs-be-the-hero/blob/master/src/assets/screeenshots/print4.png?  raw=true" >
 </p>
+
+--------------------
+
+### Backend da aplicação
+[Backend](https://github.com/lcassiol/nodejs-be-the-hero)
+
+### Aplicação Mobile
+[Mobile](https://github.com/lcassiol/RN-be-the-hero)
